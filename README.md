@@ -1,4 +1,4 @@
-### Hi there, I will be add more in the upcoming days 👋
+### Hi there, I will be adding more in the upcoming days 👋
 
 ![](https://github.com/robimalco/robimalco/blob/master/32765410_10215885653635191_5883101474547826688_o.jpg)
 
