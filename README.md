@@ -2,8 +2,8 @@
 
 ### ~~~ Hi there, welcome on my Github
 
-Along the years I developed many ideas while trying to learn new skills.<br/><br/>
-Everything, always, inside my laptop.
+Along the years I developed many ideas while trying to learn new skills.<br/>
+Everything, always, inside my laptop.<br/>
 After having invested many energies improving my life's framework, I realized it was time to go live, taking care of my digital identity.<br/>
 Uploaded all the code, published my website, start streaming, resume is fully public.<br/>
 
