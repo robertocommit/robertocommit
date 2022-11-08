@@ -6,7 +6,11 @@ val dolphinxyz = profile {
     name = "roberto"
     city = "berlin"
     twitter = "adolphinxyz"
-    company = "milhos.tech"
+    work {
+      senior_analytics_engineer: "aera.onefootball.com"
+      consultant: "milhos.tech"
+      founder: "valpiccola.com"
+    }
   }
   skills(["backend", "frontend", "data", "cloud", "design"])
 }
