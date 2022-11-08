@@ -6,7 +6,7 @@ val dolphinxyz = profile {
     name = "roberto"
     city = "berlin"
     twitter = "adolphinxyz"
-    company = "milhos"
+    company = "milhos.tech"
   }
   skills([
     "backend",
