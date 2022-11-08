@@ -8,11 +8,6 @@ val dolphinxyz = profile {
     twitter = "adolphinxyz"
     company = "milhos.tech"
   }
-  skills([
-    "backend",
-    "frontend",
-    "data",
-    "design"
-  ])
+  skills(["backend", "frontend", "data", "cloud", "design"])
 }
 ```
