@@ -7,8 +7,8 @@ val dolphinxyz = about {
   twitter = "adolphinxyz"
   work {
     senior_analytics_engineer: "aera.onefootball.com"
-    consultant: "milhos.tech"
-    founder: "valpiccola.com"
+    founder: "milhos.tech"
+    building: "valpiccola.com"
   }
   skills(["backend", "frontend", "data", "cloud", "design"])
 }
