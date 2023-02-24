@@ -6,7 +6,7 @@ val info = about {
   city = "berlin"
   twitter = "robertocommit"
   work {
-    senior_analytics_engineer: "aera.onefootball.com"
+    senior_analytics_engineer: "onefootball.com"
     founder: "milhos.tech"
     building: "valpiccola.com"
   }
