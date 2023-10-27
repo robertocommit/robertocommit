@@ -12,4 +12,3 @@ passions = ["Technology", "Creativity", "Sport", "Nature"]
 links = "https://linktr.ee/robimalco"
 tools = "https://robimalco.netlify.app/opensource/"
 ```
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=robertocommit&show_icons=true&locale=en&count_private=true&theme=transparent" alt="robertocommit" />
