@@ -1,4 +1,8 @@
 <img src="https://github.com/robimalco/robimalco/blob/master/32765410_10215885653635191_5883101474547826688_o.jpg" width="100%" height="150">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertocommit&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertocommit&theme=github_dark">
+</p>
 
 ```toml
 [details]
