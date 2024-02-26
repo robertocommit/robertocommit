@@ -14,7 +14,6 @@ strengths = ["Analytics", "Automation", "Open Source"]
 traits = ["Curious", "Energetic", "Versatile"]
 passions = ["Technology", "Creativity", "Sport", "Nature"]
 links = "https://linktr.ee/robimalco"
-tools = "https://robimalco.netlify.app/opensource/"
 ```
 
 <h2>
