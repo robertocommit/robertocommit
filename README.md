@@ -13,7 +13,6 @@ expertise = ["Data", "Code", "Design", "Product"]
 strengths = ["Analytics", "Automation", "Open Source"]
 traits = ["Curious", "Energetic", "Versatile"]
 passions = ["Technology", "Creativity", "Sport", "Nature"]
-links = "https://linktr.ee/robimalco"
 ```
 
 <h2>
