@@ -28,12 +28,3 @@ Discover a significant portion of my coding work through these projects:
     <b><a href="https://github.com/MilhosOU">Milhos</a></b>: a digital experimentation consultancy.
   </li>
 </ul>
-
-<h2>
-  Stats
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertocommit&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertocommit&theme=github_dark">
-</p>
